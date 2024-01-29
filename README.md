@@ -9,6 +9,9 @@
 
 - ⚡ Fun fact **Remember: coffee is your best friend.**
 
+
+[![Aaronespi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaronespi)](https://github.com/Aaronespi/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://es.linkedin.com/in/aaron-espinosa-pineda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://es.linkedin.com/in/aaron-espinosa-pineda" height="30" width="40" /></a>
