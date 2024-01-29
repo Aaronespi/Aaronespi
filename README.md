@@ -10,7 +10,7 @@
 - ⚡ Fun fact **Remember: coffee is your best friend.**
 
 
-[![Aaronespi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaronespi)](https://github.com/Aaronespi/github-readme-stats)
+[![Aaronespi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaronespi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)](https://github.com/Aaronespi/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaronespi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)](https://github.com/Aaronespi/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
